@@ -1,0 +1,19 @@
+{
+  "name": "js-challenge",
+  "version": "1.0.0",
+  "description": "js challenge",
+  "main": "challenge-one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djalmeida3-source/js-challenge.git"
+  },
+  "author": "David Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djalmeida3-source/js-challenge/issues"
+  },
+  "homepage": "https://github.com/djalmeida3-source/js-challenge#readme"
+}
